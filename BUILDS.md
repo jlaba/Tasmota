@@ -113,6 +113,7 @@ Note: `minimal` variant is not listed as it shouldn't be used outside of the [up
 | USE_SHT3X                 | - | - / x | - | x | - | - |
 | USE_TSL2561               | - | - / - | - | - | - | - |
 | USE_TSL2591               | - | - / - | - | - | - | - |
+| USE_TSL45315              | - | - / - | - | - | - | - |
 | USE_MGS                   | - | - / x | - | x | - | - |
 | USE_SGP30                 | - | - / x | - | x | - | - |
 | USE_SGP40                 | - | - / x | - | x | - | - |

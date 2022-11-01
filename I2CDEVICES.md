@@ -107,3 +107,4 @@ Index | Define              | Driver   | Device   | Address(es) | Description
   70  | USE_LUXV30B         | xsns_99  | LUXV30B  | 0x4A        | DFRobot SEN0390 V30B lux sensor
   71  | USE_QMC5883L        | xsns_33  | QMC5883L | 0x0D        | Magnetic Field Sensor
   72  | USE_INA3221         | xsns_100 | INA3221  | 0x40-0x43   | 3-channels Voltage and Current sensor
+  73  | USE_TSL45315        | xsns_101 | TSL45315 | 0x29        | Light sensor with a range from 3 lux to 220k lux
